@@ -62,6 +62,7 @@ class ViewController: UIViewController {
         else if randomSecondCard == randomFirstCard{
             //TODO: Same value
         }
+            
         else{
             //TODO: First card smaller
             self.enemyScore += 1
